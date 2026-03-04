@@ -3,6 +3,7 @@
 To install 'macpserverexample' mcp server, run the following comamnd
 
 '''json
+
 {
     "mcpserverexample": {
       "command": "uvx",
@@ -13,5 +14,6 @@ To install 'macpserverexample' mcp server, run the following comamnd
       ]
     }
 }
+
 
 '''
